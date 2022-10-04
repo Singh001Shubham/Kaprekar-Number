@@ -1,0 +1,1 @@
+This is called kaprekar number, this program prints kaprekar number range 1 to 1000;
